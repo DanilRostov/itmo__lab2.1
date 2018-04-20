@@ -1,0 +1,24 @@
+{
+  "name": "lab2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "diff2html-cli": "^2.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanilRostov/itmo__lab2.1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanilRostov/itmo__lab2.1/issues"
+  },
+  "homepage": "https://github.com/DanilRostov/itmo__lab2.1#readme"
+}
